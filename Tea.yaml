@@ -6,3 +6,4 @@ quorum:
   percentage: 100
 treasury:
   enabled: true
+
