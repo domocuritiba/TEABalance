@@ -1,0 +1,18 @@
+{
+  "version": "0.1",
+  "project": {
+    "name": "TEABalance",
+    "repo": "https://github.com/domocuritiba/TEABalance",
+    "license": "MIT"
+  },
+  "maintainers": [
+    {
+      "github": "domocuritiba",
+      "address": "0xd0109Bc79C8DAB6b525C61E556FC1823872dB0D6"
+    }
+  ],
+  "governance": {
+    "quorum": 1,
+    "approvals": ["domocuritiba"]
+  }
+}
