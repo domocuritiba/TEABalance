@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Saldo TEA</title>
+	<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+	<h1>TEA Balance</h1>
+
+	<button id="connect">Conectar MetaMask</button><br><br>
+
+	<label for="wallet">Endereço da carteira:</label><br>
+	<input type="text" id="wallet" placeholder="Conecte para preencher" readonly />
+	<button id="unlock">Usar outro endereço</button><br><br>
+
+	<button id="check">Verificar saldo</button>
+
+	<p id="address"></p>
+	<p id="balance">Saldo: --</p>
+	<p id="tokenInfo">Token: --</p>
+	<p id="error" style="color: red;"></p>
+
+	<!-- Scripts no final para garantir carregamento correto -->
+	<script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+	<script src="app.js"></script>
+
+
+</body>
+</html>
+

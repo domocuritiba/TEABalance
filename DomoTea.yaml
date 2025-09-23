@@ -1,0 +1,8 @@
+name: TeaBalance
+description: Projeto de código aberto para XYZ
+maintainers:
+  - github: domocuritiba
+quorum:
+  percentage: 100
+treasury:
+  enabled: true
