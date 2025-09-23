@@ -1,0 +1,10 @@
+{
+  "name": "teabalance",
+  "version": "1.0.0",
+  "description": "Painel Web3 para visualizar saldos de tokens TEA na rede Sepolia",
+  "author": "domocuritiba",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
