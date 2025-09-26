@@ -14,8 +14,8 @@
         {
             name: "Wrapped TEA",
             address: "0xfc4e864C051cBb4aB732D5F2495eB286f8860196"
-        }
-    ];*/
+        }*/
+    ];
 
 // ABI mínima para interagir com o contrato ERC-20
     const teaTokenAbi = [
@@ -94,4 +94,5 @@ document.getElementById("check").onclick = async () => {
         console.error(err);
     }
 };
+
 });
