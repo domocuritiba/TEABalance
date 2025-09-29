@@ -1,9 +1,0 @@
-name: TEABalance
-description: Painel Web3 para visualizar saldos de tokens TEA na rede Sepolia
-tags:
-  - web3
-  - dapp
-  - tea
-  - ethers
-repository: https://github.com/domocuritiba/TEABalance
-license: MIT
